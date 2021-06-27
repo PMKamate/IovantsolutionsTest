@@ -15,5 +15,6 @@
     <color name="colorgrayTenOpacity">#1Ac6cacc</color>
     <color name="colorDivider">#C7C7C7</color>
     <color name="card_bg">#D9E4EB</color>
+    <color name="colorBrown">#3f233a</color>
 
 </resources>
